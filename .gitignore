@@ -85,9 +85,9 @@ Thumbs.db
 logs
 *.log
 
-# Google Cloud credentials
+# Google Cloud credentials (specific files)
 service-account-key.json
-*.json
+gcp-service-account.json
 
 # MongoDB
 mongodb/
